@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_flutter
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# my_first_flutter_app
+นี้คือ flutter application แรกของฉันในรายวิชาของ อ.พิศาล
+>>>>>>> 732976619bd04703eb5bc71ef46f7050802fb739
